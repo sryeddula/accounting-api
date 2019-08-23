@@ -1,1 +1,2 @@
 src/main/resources/META-INF/persistence.xml filter=git-crypt diff=git-crypt
+src/main/resources/META-INF/sample.txt filter=git-crypt diff=git-crypt
